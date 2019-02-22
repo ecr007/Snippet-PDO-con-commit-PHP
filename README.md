@@ -1,0 +1,1 @@
+# Snippet-PDO-con-commit-PHP
